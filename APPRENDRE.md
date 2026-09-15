@@ -33,16 +33,45 @@ Une fois que main droite = automatique et main gauche = automatique, tu combines
 **6. Si tu bloques sur un passage, ralentis encore plus.**
 Le vrai principe : *si tu peux le jouer lentement sans erreur, tu peux l'apprendre. Si tu fais toujours la même erreur à vitesse rapide, c'est que tu ne le maîtrises pas encore lentement.*
 
-## Ordre des morceaux fournis
+## Progression complète — dans l'ordre
 
-Dans le dossier `morceaux/`, du plus simple au plus difficile :
+### Niveau 1 : position 5 doigts, main droite seule sur Do central
 
-1. **Twinkle Twinkle** — 30 s, 90 notes. Ta première victoire. Fais-le main droite seule d'abord.
-2. **Ode à la joie** — Beethoven. La mélodie est main droite, la gauche fait juste les accords.
-3. **River Flows In You** (mélodie) — Yiruma. Que la ligne mélodique, sans l'accompagnement complet.
-4. **Für Elise** — Beethoven. Le E-D#-E-D#-E de mélodie est le passage d'introduction le plus connu de la musique classique. Commence par ça, seul, avant même de regarder la suite.
-5. **Comptine d'un autre été** — Yann Tiersen (Amélie Poulain). Beau à jouer, arpèges main gauche répétitifs.
-6. **Canon en D** — Pachelbel. Long, mais très répétitif : une fois qu'on tient 30 secondes, on tient tout.
+Pose ton pouce sur le Do central (C4, au milieu du clavier, à gauche des deux touches noires groupées) et laisse tes 5 doigts sur les 5 touches suivantes : **C D E F G**. Tu ne bouges pas ta main. Un doigt par touche.
+
+- **10-position-5doigts_frere_jacques.mid** — La comptine que tout le monde connaît. Utilise C D E F G A (le 5ᵉ doigt s'étire un peu pour le A).
+- **11-position-5doigts_ode_a_la_joie.mid** — Beethoven. C D E F G exactement, parfait pour la position 5 doigts.
+- **12-position-5doigts_au_clair_de_la_lune.mid** — Que C D E, encore plus simple. Le vrai premier morceau à réussir.
+
+### Niveau 2 : octave complète (8 notes), main droite
+
+Tu commences à bouger le pouce (passage sous) pour couvrir plus qu'une position.
+
+- **13-position-octave_twinkle_twinkle.mid** — Utilise le A qui demande un léger étirement du 5.
+- **14-position-octave_jingle_bells.mid** — Rythme un peu plus vif, mélodie catchy.
+
+### Niveau 3 : deux mains, position miroir
+
+Main droite sur C4-G4, main gauche sur C3-G3 (une octave plus bas). Le PC t'aide : en mode ✋D il joue la gauche, en mode ✋G il joue la droite, en mode 🖐 2 mains tu joues tout.
+
+- **20-deux-mains_ode_a_la_joie.mid** — Main gauche = accords do/sol simples. Le classique pour débuter à deux mains.
+- **21-deux-mains_frere_jacques.mid** — Main gauche pulse un do tenu, tu te concentres sur la mélodie droite tout en tenant le rythme gauche.
+- **22-deux-mains_au_clair_de_la_lune.mid** — Main gauche fait un arpège do-mi-sol-mi qui roule, magnifique à jouer.
+
+### Niveau 4 : deux octaves (couvrir plus du clavier)
+
+- **30-deux-octaves_gamme_do_majeur.mid** — La gamme de Do sur 2 octaves, montante puis descendante. Exercice pur, pas une mélodie. Répète 10 fois par jour, c'est la base.
+- **31-deux-octaves_ode_joie_grave_puis_aigu.mid** — Ode à la joie jouée grave puis rejouée une octave au-dessus. Pour habituer l'œil aux sauts.
+- **32-deux-octaves_arpeges_style_bach.mid** — Arpèges qui montent, style Prélude BWV 846. Prépare aux vraies partitions.
+
+### Vrais morceaux (une fois la progression validée)
+
+- **01-Twinkle_Twinkle_Little_Star_facile.mid** — Ta première victoire hors exercices.
+- **02-Ode_a_la_joie_Beethoven_facile.mid** — Version complète, avec accords.
+- **06-River_Flows_In_You_Yiruma_piano.mid** — Que la mélodie principale.
+- **03-Fur_Elise_Beethoven_intermediaire.mid** — Le classique à connaître.
+- **05-Comptine_d_un_autre_ete_Yann_Tiersen.mid** — Arpèges main gauche répétitifs.
+- **04-Canon_en_D_Pachelbel.mid** — Long mais très répétitif.
 
 ## Rythme d'entraînement réaliste
 
