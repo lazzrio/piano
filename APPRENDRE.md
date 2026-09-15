@@ -68,10 +68,14 @@ Main droite sur C4-G4, main gauche sur C3-G3 (une octave plus bas). Le PC t'aide
 
 Version **5 doigts** = main droite seule sur C4-G4, mélodies simplifiées mais reconnaissables. Version **10 doigts** = deux mains, la gauche fait un accompagnement basique. Toutes transposées en Do majeur pour rester sur la position 5 doigts.
 
-- **40 / 50 - Totoro : Sanpo** (Ghibli). L'ouverture *« Aru-ko aru-ko »*. Joyeux, très bref, la meilleure première victoire d'anime.
+- **40 / 50 - Totoro : Sanpo** (Ghibli). L'ouverture *« Aru-ko aru-ko »*. Joyeux, très bref.
 - **41 / 51 - Le Château ambulant : Merry Go Round of Life** (Hisaishi). Valse en 3/4, iconique.
-- **42 / 52 - Naruto : Sadness and Sorrow**. Court, mélancolique. Simplifié sans le mineur original.
+- **42 / 52 - Naruto : Sadness and Sorrow**. Court, mélancolique.
 - **43 / 53 - Tokyo Ghoul : Unravel** (intro). Riff reconnaissable.
+- **44 / 54 - Bunny Girl Senpai : Fukashigi no Carte** (ED). Piano mélancolique très pur.
+- **45 / 55 - Steins;Gate : Hacking to the Gate** (OP). Riff synthé, plus rapide.
+- **46 / 56 - Fairy Tail : Main Theme**. Épique en La mineur (simplifié en Do).
+- **47 / 57 - Code Geass : Continued Story** (ED). Doux, arpèges main gauche.
 
 Fais d'abord la version 5 doigts en mode ✋D pour t'entraîner à la mélodie seule, puis passe à la version 10 doigts en 🖐 2 mains une fois à l'aise.
 
