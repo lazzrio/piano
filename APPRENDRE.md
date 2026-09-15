@@ -64,6 +64,17 @@ Main droite sur C4-G4, main gauche sur C3-G3 (une octave plus bas). Le PC t'aide
 - **31-deux-octaves_ode_joie_grave_puis_aigu.mid** — Ode à la joie jouée grave puis rejouée une octave au-dessus. Pour habituer l'œil aux sauts.
 - **32-deux-octaves_arpeges_style_bach.mid** — Arpèges qui montent, style Prélude BWV 846. Prépare aux vraies partitions.
 
+### Bonus : anime (deux versions par titre)
+
+Version **5 doigts** = main droite seule sur C4-G4, mélodies simplifiées mais reconnaissables. Version **10 doigts** = deux mains, la gauche fait un accompagnement basique. Toutes transposées en Do majeur pour rester sur la position 5 doigts.
+
+- **40 / 50 - Totoro : Sanpo** (Ghibli). L'ouverture *« Aru-ko aru-ko »*. Joyeux, très bref, la meilleure première victoire d'anime.
+- **41 / 51 - Le Château ambulant : Merry Go Round of Life** (Hisaishi). Valse en 3/4, iconique.
+- **42 / 52 - Naruto : Sadness and Sorrow**. Court, mélancolique. Simplifié sans le mineur original.
+- **43 / 53 - Tokyo Ghoul : Unravel** (intro). Riff reconnaissable.
+
+Fais d'abord la version 5 doigts en mode ✋D pour t'entraîner à la mélodie seule, puis passe à la version 10 doigts en 🖐 2 mains une fois à l'aise.
+
 ### Vrais morceaux (une fois la progression validée)
 
 - **01-Twinkle_Twinkle_Little_Star_facile.mid** — Ta première victoire hors exercices.
