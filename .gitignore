@@ -1,0 +1,8 @@
+# Fichiers locaux, ne pas publier
+audio/
+yt2mid/audio/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+exemple-transcrit*.mid
